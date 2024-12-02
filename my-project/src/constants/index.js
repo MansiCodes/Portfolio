@@ -113,7 +113,7 @@ export const EDUCATION = [
 
 export const CERTIFICATIONS = [
   {
-    title: "Fundamentals of Artificial Intelligence and Data Science",
+    title: "Artificial Intelligence ",
     issuedBy: "Name",
     year: "2023",
   },
@@ -123,7 +123,7 @@ export const CERTIFICATIONS = [
     year: "2021",
   },
   {
-    title: "Programming Beginner to Advanced",
+    title: "Web Development",
     issuedBy: "organisation name",
     year: "2021",
   },
